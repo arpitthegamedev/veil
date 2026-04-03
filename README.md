@@ -31,7 +31,7 @@ Veil is a lightweight Windows utility that lets you instantly kill the active wi
 ### Option 1 — Download the .exe (recommended)
 
 1. Go to [Releases](../../releases)
-2. Download `Veil.exe`
+2. Download `Veil.vbs`
 3. Run it — no install needed
 
 ### Option 2 — Run from source
