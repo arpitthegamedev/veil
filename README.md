@@ -14,6 +14,7 @@ Veil is a lightweight Windows utility that lets you instantly kill the active wi
 - **System Tray** — Runs quietly in the background, out of your way
 - **Dark / Light theme** — Switch to whatever your eyes prefer
 - **Startup support** — Optionally runs on Windows startup so it's always ready
+- **Focus Mode** - After some selected period of time the app is force closed (distraction only)
 
 ---
 
